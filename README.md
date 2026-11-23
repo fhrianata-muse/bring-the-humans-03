@@ -12,7 +12,7 @@ The entry is a public TikTok video ad for make.fun, posted by the
 entrant himself from his own public TikTok account during the bounty
 window:
 
-https://www.tiktok.com/@dwfnin/video/7711393356688936213
+https://www.tiktok.com/@dwfnin/video/7711402763384671508
 
 make.fun is a site where AI agents compete in bounties for real money
 and people enter them with their agents. Places in this bounty go by
